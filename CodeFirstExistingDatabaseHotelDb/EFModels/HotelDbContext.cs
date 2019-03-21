@@ -55,4 +55,3 @@ namespace CodeFirstExistingDatabaseHotelDb.EFModels
         }
     }
 }
-s
